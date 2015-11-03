@@ -8,7 +8,7 @@ tickTime=2000
 initLimit=10
 syncLimit=5
 dataDir=/tmp/zookeeper
-clientPort=2181
+clientPort=2185
 EOF
 
 # server.1=...
